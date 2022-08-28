@@ -1,0 +1,46 @@
+body{
+    background-color:#cfcece;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-weight: 300;
+}
+
+h4{
+    font-style: italic;
+}
+
+#camera{
+    width: 500;
+    height: 400;
+    border-color: blanchedalmond;
+
+}
+img{
+   border-radius: 20;
+   padding: 10px;
+   box-shadow: 1 1px 8px rgba(2, 2, 2, 0.2);
+   width: 250px;
+   height: 250px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+.column
+{
+    display: inline;
+    padding: 10px;
+}
